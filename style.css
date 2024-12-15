@@ -219,7 +219,7 @@ body {
     background: linear-gradient(to bottom, hsl(256, 72%, 46%), hsl(241, 81%, 54%));
 }
 
-@media screen and (max-width: 400px) {
+@media screen and (max-width: 450px) {
     body {
         margin: 0;
     }
